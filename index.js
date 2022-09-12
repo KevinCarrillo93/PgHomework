@@ -1,3 +1,4 @@
-function laCajaDePandora(numero){
-    // proximamente escribiremos codigo aqui
-    }
+function laCajaDePandora(numero) {
+  const num = Math.round(numero);
+  // proximamente escribiremos codigo aqui
+}
