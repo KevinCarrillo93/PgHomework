@@ -4,14 +4,10 @@ function laCajaDePandora(numero){
     else return numero.toString(16);
 }
 
-const silvina = () => {
+const fati = () => {
     return {
-        nombre: 'Silvina',
-        edad: 32,
-        nacionalidad: 'Argentina'
+        nombre: 'Fátima',
+        edad: 24,
+        nacionalidad: 'Argentina',
     }
-    
-function kevin(){
-    const me = {name: kevin, age: 28, nationality: 'Colombia'}
-    return me;
 }
